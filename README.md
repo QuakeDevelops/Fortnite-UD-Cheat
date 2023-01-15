@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-
+https://cdn.discordapp.com/attachments/1054545503544684618/1064329566556000286/image.png
   <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
