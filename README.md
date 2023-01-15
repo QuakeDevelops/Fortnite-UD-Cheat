@@ -34,5 +34,5 @@ You dont need to install any modules opening this will install them for you.
 
 ```
 I'm not taking any responsibility for your bans/terminations.
-This is for educational purposes only
+This is for educational purposes only (Legit you can last long as you want, Rage you will last most likely 5 days).
 ```
